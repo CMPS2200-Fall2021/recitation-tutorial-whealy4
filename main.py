@@ -1,4 +1,5 @@
 def sum_of_squares(a):
+    beep boop
 	pass
 
 def test_one():
